@@ -1,5 +1,11 @@
 # Matrix-Multiplication
 # Matrix Multiplication with C language in a simple way 
+/*
+  Author: Dipesh Kumar Paswan
+  Date: December 11, 2023
+  Description: This program for multiplying of two matrices 
+*/
+
 
 #include <stdio.h>
 
