@@ -1,17 +1,13 @@
-# Matrix-Multiplication
-# Matrix Multiplication with C language in a simple way 
 /*
   Author: Dipesh Kumar Paswan
   Date: December 11, 2023
   Description: This program for multiplying of two matrices 
 */
 
-
-#include <stdio.h>
-
-int main() {
+    #include <stdio.h>
+    int main() {
     int a[10][10], b[10][10], mul[10][10], r, c, i, j, k;
-
+    
     printf("Enter the number of rows\n");
     scanf("%d", &r);
     printf("Enter the number of columns\n");
